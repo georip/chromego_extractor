@@ -75,7 +75,7 @@ proxies:
   password: dongtaiwang.com
   sni: www.bing.com
   skip-cert-verify: true
-- name: 🇺🇸 US-vmess | 1-0
+- name: 🏳 Unknown-vmess | 1-0
   type: vmess
   server: yh4.dtku41.xyz
   port: 2082
@@ -146,7 +146,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: ♻️ 自动选择
@@ -159,7 +159,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: ⚖ 负载均衡
@@ -172,7 +172,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: ☁ WARP前置节点
@@ -185,7 +185,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: 📺 巴哈姆特
@@ -198,7 +198,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: 📺 哔哩哔哩
@@ -211,7 +211,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: 🌏 国内媒体
@@ -224,7 +224,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: 🌍 国外媒体
@@ -237,7 +237,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: 📲 电报信息
@@ -250,7 +250,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: Ⓜ️ 微软云盘
@@ -263,7 +263,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: Ⓜ️ 微软服务
@@ -276,7 +276,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: 🍎 苹果服务
@@ -289,7 +289,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: 📢 谷歌FCM
@@ -302,7 +302,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: 🤖 OpenAI
@@ -315,7 +315,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 - name: 🎯 全球直连
@@ -337,7 +337,7 @@ proxy-groups:
   - 🏳 Unknown-hysteria | 9-1
   - 🇫🇷 FR-Hysteria | 0-0
   - 🇺🇸 US-Hysteria2 | 0-0
-  - 🇺🇸 US-vmess | 1-0
+  - 🏳 Unknown-vmess | 1-0
   - 🇺🇸 US-vmess | 2-0
   - 🇺🇸 US-vmess | 3-0
 rules:
